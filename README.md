@@ -25,10 +25,9 @@
 ### Download
 
 BOOTH:
-（ここにBOOTHリンク）
+[画像一括リサイズ 600px（image-batch-resizer）](https://kuttas-tools-lab.booth.pm/items/8284157)
 
 ---
 
 ## Screenshot
-
-（あとで画像追加）
+<img width="1731" height="909" alt="image-batch-resizer_png1" src="https://github.com/user-attachments/assets/1ab68e4e-fdee-4a04-9910-35fbcc44c492" />
