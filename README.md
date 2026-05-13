@@ -7,11 +7,9 @@
 # Tools
 
 ## Image Batch Resizer 600px
-
 画像を一括で長辺600pxにリサイズできるシンプルなGUIツールです。
 
 ### Features
-
 - 長辺600pxへ一括変換
 - 縦横比維持
 - 小さい画像はそのままコピー
@@ -19,15 +17,31 @@
 - フォルダ単位で一括処理
 
 ### Environment
-
 - macOS
 
 ### Download
-
 BOOTH:
 [画像一括リサイズ 600px（image-batch-resizer）](https://kuttas-tools-lab.booth.pm/items/8284157)
 
 ---
 
-## Screenshot
-<img width="1731" height="909" alt="image-batch-resizer_png1" src="https://github.com/user-attachments/assets/1ab68e4e-fdee-4a04-9910-35fbcc44c492" />
+# Screenshot Organizer AI
+スクリーンショットやレシート画像をOCRで自動分類するPythonツールです。
+
+## Features
+- OCRによる文字認識分類
+- レシート自動判定
+- dry-run モード対応
+- self-check モード対応
+- フォルダ単位で一括整理
+- ローカル動作
+
+## Environment
+- macOS
+- Python 3.9+
+
+## Download
+BOOTH:
+[Screenshot Organizer AI（スクリーンショット自動整理ツール）](https://kuttas-tools-lab.booth.pm/items/8267360)
+
+
