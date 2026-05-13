@@ -19,6 +19,9 @@
 ### Environment
 - macOS
 
+### ToolVer
+- 1.0
+
 ### Download
 BOOTH:
 [画像一括リサイズ 600px（image-batch-resizer）](https://kuttas-tools-lab.booth.pm/items/8284157)
@@ -39,6 +42,9 @@ BOOTH:
 ## Environment
 - macOS
 - Python 3.9+
+
+### ToolVer
+- 1.1
 
 ## Download
 BOOTH:
